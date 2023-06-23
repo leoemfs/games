@@ -3,8 +3,7 @@
 - to improve element manipulation skills with javascript
 - to improve CSS styling skills
 
-# Games
-- Mario Jump {
+# Mario Jump {
 - expected features:
 - score count,
 - fix bugs,
@@ -12,6 +11,6 @@
 - add player name,
 - change difficulty by playing time
 - }
-- Snake
-- Tic-tec-toe
-- Memory Game
+# Snake
+# Tic-tec-toe
+# Memory Game
