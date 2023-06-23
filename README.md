@@ -4,14 +4,13 @@
 - to improve CSS styling skills
 
 # Mario Jump 
-- {
-- expected features:
+Expected features:
 - score count,
 - fix bugs,
 - start and replay buttons,
 - add player name,
 - change difficulty by playing time
-- }
+
 # Snake
 # Tic-tec-toe
 # Memory Game
