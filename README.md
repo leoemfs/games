@@ -3,7 +3,8 @@
 - to improve element manipulation skills with javascript
 - to improve CSS styling skills
 
-# Mario Jump {
+# Mario Jump 
+- {
 - expected features:
 - score count,
 - fix bugs,
